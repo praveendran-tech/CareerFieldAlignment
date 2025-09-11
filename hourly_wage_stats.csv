@@ -1,0 +1,116 @@
+Unit,Year,Internship_Wage_N,Internship_Wage_Median,Internship_Wage_Average
+College Park Scholars,2015,358,15.0,15.29
+College Park Scholars,2016,369,15.0,15.95
+College Park Scholars,2017,339,13.13,15.16
+College Park Scholars,2018,377,15.0,17.9
+College Park Scholars,2019,266,15.0,16.88
+College Park Scholars,2020,245,15.0,17.78
+College Park Scholars,2021,71,17.96,71.0
+College Park Scholars,2022,196,20.0,20.33
+College Park Scholars,2023,142,18.0,20.47
+College Park Scholars,2024,527,25.0,27.57
+College of Agriculture and Natural Resources,2015,73,11.38,73.0
+College of Agriculture and Natural Resources,2016,78,11.0,13.66
+College of Agriculture and Natural Resources,2017,51,12.0,12.6
+College of Agriculture and Natural Resources,2018,51,12.0,13.9
+College of Agriculture and Natural Resources,2019,59,12.5,13.9
+College of Agriculture and Natural Resources,2020,61,13.98,61.0
+College of Agriculture and Natural Resources,2021,17,12.0,14.52
+College of Agriculture and Natural Resources,2022,79,15.0,14.64
+College of Arts and Humanities,2015,210,12.66,210.0
+College of Arts and Humanities,2016,192,12.0,12.8
+College of Arts and Humanities,2017,153,12.0,12.96
+College of Arts and Humanities,2018,51,12.5,18.05
+College of Arts and Humanities,2019,95,46.0,95.0
+College of Arts and Humanities,2020,165,15.0,15.3
+College of Arts and Humanities,2021,19,15.0,14.53
+College of Arts and Humanities,2022,108,15.0,16.0
+College of Arts and Humanities,2023,104,15.0,17.46
+College of Arts and Humanities,2024,148,17.0,18.17
+College of Behavioral and Social Sciences,2015,295,12.5,13.71
+College of Behavioral and Social Sciences,2016,285,15.0,15.01
+College of Behavioral and Social Sciences,2017,308,12.25,13.58
+College of Behavioral and Social Sciences,2018,308,13.0,15.8
+College of Behavioral and Social Sciences,2019,215,14.0,14.85
+College of Behavioral and Social Sciences,2020,339,15.0,16.0
+College of Behavioral and Social Sciences,2021,165,15.0,16.07
+College of Behavioral and Social Sciences,2022,138,50.0,138.0
+College of Behavioral and Social Sciences,2023,171,18.0,22.43
+College of Behavioral and Social Sciences,2024,298,18.71,298.0
+"College of Computer, Mathematical, and Natural Sciences",2016,349,17.5,19.25
+"College of Computer, Mathematical, and Natural Sciences",2017,308,12.25,13.58
+"College of Computer, Mathematical, and Natural Sciences",2020,423,22.0,423.0
+"College of Computer, Mathematical, and Natural Sciences",2021,116,21.32,116.0
+"College of Computer, Mathematical, and Natural Sciences",2022,327,20.0,23.41
+"College of Computer, Mathematical, and Natural Sciences",2023,266,23.0,25.64
+College of Education,2015,7,12.0,12.18
+College of Education,2016,5,10.0,10.8
+College of Education,2017,10,11.25,12.15
+College of Education,2018,5,14.0,12.82
+College of Education,2020,2,15.0,15.0
+College of Information,2018,7,13.75,14.5
+College of Information,2020,98,17.98,98.0
+College of Information,2021,15,15.0,15.64
+College of Information,2022,69,18.0,20.96
+College of Information,2023,58,20.5,21.78
+College of Information,2024,110,20.5,22.89
+Honors College,2015,304,15.0,16.09
+Honors College,2016,525,15.0,17.61
+Honors College,2017,341,15.15,17.42
+Honors College,2018,308,18.0,20.4
+Honors College,2019,322,18.0,18.94
+Honors College,2020,419,20.23,419.0
+Honors College,2021,95,20.32,95.0
+Honors College,2022,283,78.0,283.0
+Honors College,2023,201,78.0,201.0
+Honors College,2024,301,20.0,23.44
+Letters and Sciences,2020,538,15.0,16.87
+Letters and Sciences,2021,105,16.0,18.11
+Letters and Sciences,2022,290,17.0,18.19
+Letters and Sciences,2024,382,20.0,22.27
+Philip Merrill College of Journalism,2015,99,11.2,99.0
+Philip Merrill College of Journalism,2016,114,10.75,13.5
+Philip Merrill College of Journalism,2017,146,11.0,11.56
+Philip Merrill College of Journalism,2018,136,12.0,12.31
+Philip Merrill College of Journalism,2019,63,13.59,63.0
+Philip Merrill College of Journalism,2022,45,15.0,15.84
+Philip Merrill College of Journalism,2023,15,51.0,15.0
+Philip Merrill College of Journalism,2024,62,47.0,62.0
+"School of Architecture, Planning, and Preservation",2020,41,16.5,41.0
+"School of Architecture, Planning, and Preservation",2022,35,17.0,16.93
+"School of Architecture, Planning, and Preservation",2023,29,20.0,18.18
+"School of Architecture, Planning, and Preservation",2024,35,19.0,18.94
+School of Public Health,2015,70,25.0,70.0
+School of Public Health,2016,88,11.0,13.1
+School of Public Health,2017,109,12.0,12.15
+School of Public Health,2018,308,12.0,13.58
+School of Public Health,2019,83,13.31,83.0
+School of Public Health,2020,99,13.0,13.87
+School of Public Health,2021,15,15.0,14.93
+School of Public Health,2022,26,15.0,15.98
+School of Public Health,2023,37,16.0,16.36
+School of Public Health,2024,66,16.55,20.15
+School of Public Policy,2020,24,15.0,16.2
+School of Public Policy,2023,21,16.0,16.04
+The A. James Clark School of Engineering,2015,472,16.0,16.9
+The A. James Clark School of Engineering,2016,572,16.0,17.28
+The A. James Clark School of Engineering,2017,534,17.0,17.69
+The A. James Clark School of Engineering,2018,618,18.0,20.06
+The A. James Clark School of Engineering,2019,504,17.8,18.4
+The A. James Clark School of Engineering,2020,610,20.0,19.8
+The A. James Clark School of Engineering,2021,160,20.0,19.75
+The A. James Clark School of Engineering,2022,347,20.0,20.62
+The A. James Clark School of Engineering,2023,258,21.0,21.77
+The A. James Clark School of Engineering,2024,375,22.0,22.6
+The Robert H. Smith School of Business,2015,657,3.0,657.0
+The Robert H. Smith School of Business,2016,578,16.5,18.14
+The Robert H. Smith School of Business,2017,614,15.33,18.23
+The Robert H. Smith School of Business,2018,285,15.0,19.9
+The Robert H. Smith School of Business,2019,388,24.0,388.0
+University-Wide,2015,1963,14.74,15.12
+University-Wide,2016,2107,15.0,16.58
+University-Wide,2020,1657,16.0,18.3
+University-Wide,2021,378,17.0,18.83
+University-Wide,2022,1438,438.0,1.0
+University-Wide,2023,1075,75.0,1.0
+University-Wide,2024,1675,675.0,1.0
